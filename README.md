@@ -11,7 +11,7 @@
 ```bash
 go run .
 or
-go run main
+go run main.go
 ```
 ## Images
 ![image](https://github.com/Christomesh/altschool-go-task-3/blob/main/assets/ass1.png)
