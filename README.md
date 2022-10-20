@@ -12,5 +12,6 @@
 go run .
 ```
 ## Images
-![image](https://user-images.githubusercontent.com/94747637/196706366-9a979b88-d52b-4100-9bfb-c5f6e04031a9.png)
-![image](https://user-images.githubusercontent.com/94747637/196706856-14a911de-2303-41e5-9bfc-490bf56558d4.png)
+![image](https://github.com/Christomesh/altschool-go-task-3/blob/main/assets/ass1.png)
+![image](https://github.com/Christomesh/altschool-go-task-3/blob/main/assets/ass2.png)
+![image](https://github.com/Christomesh/altschool-go-task-3/blob/main/assets/ass3.png)
